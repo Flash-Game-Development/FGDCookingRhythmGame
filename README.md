@@ -8,6 +8,5 @@ Using Unity Version 2022.3.43f1
 - Before your pull request, make sure that you are using the latest version of main on your branch.
 
 ## Upcoming Issues
-- Data Management
 - Task Timeline
 
